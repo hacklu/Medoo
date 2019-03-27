@@ -1,3 +1,6 @@
+ wget -r -p -np -k https://medoo.in/   在本地镜像一个文档。
+
+
 <p align="center">
     <a href="https://medoo.in" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1467904/19835326/ca62bc36-9ebd-11e6-8b37-7240d76319cd.png"></a>
 </p>
